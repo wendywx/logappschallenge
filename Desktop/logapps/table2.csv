@@ -1,0 +1,35 @@
+Para. #,Sent. #,Subject,Verbs,Remaining
+ 1,1,GDGPS ,is driven set developed possessing ,System by a powerful software  completely in-house at JPL  and many unique features and capabilities  
+1,2,C++ ,was developed evolved ,software and from one of the world 's leading GPS data processing and analysis software packages  JPL 's GIPSY-OASIS and its real-time version RTG ( Real Time GIPSY )  
+2,1,system ,be automated ,shall completely  with end-to-end automatic operations  
+2,2,Complete ,,positioning system  
+2,3,software ,handles including ,all aspects of a complete real time global positioning system  GNSS orbit determination and simultaneous network positioning  
+2,4,software ,performs ,user positioning and orbit determination  
+2,5,system ,supports ,real-time applications as well as post-processing applications  
+2,6,Simulations ,,capability  
+2,7,Highly ,,portable  
+2,8,software ,is tested ,regularly on multiple flavors of Linux  
+2,9,modules ,positioning have been ported including ,to several embedded real-time environments  flight receivers  
+2,10,Versatile ,, 
+2,11,system ,works ,with many types of popular geodetic receivers  
+2,12,adaptation ,makes accommodate ,layer it easy to new receiver types  
+3,1,system ,be developed ,shall with Object Oriented C++ and Python for portability and maintainability  
+3,2,Modularity ,, 
+3,3,Highly ,be developed support embedded ,modular code will to as well as ground applications  
+3,4,Reliability ,, 
+3,5,track ,be ,record of continuous operations  
+3,6,Accuracy ,, 
+3,7,models ,are ,sub-cm accurate for the most demanding science applications  
+4,1,architecture ,Parallelized enables ,( MPI ) real-time solutions to massive estimation problems  
+4,2,architecture ,seamless ,guarantees global uniformity of the differential corrections  
+4,3,use ,achieve ,of the internet to robustness through redundancy  
+4,4,Unique ,developed ,satellite dynamics and signal models in house at JPL  
+4,5,system ,include ,shall efficient GNSS data compression  
+4,6,system ,developed provides ,for end-to-end redundant operations high reliability  
+4,7,filter ,allows have ,design any parameter to stochastic attributes  
+4,8,system ,be adding ,shall Capable of satellites/receivers on the fly  
+4,9,Unique ,supports modeling ,dynamics integrator very high orbit accuracy  
+4,10,delay ,designed ,model and stochastic estimation capability for users or reference sites  
+4,11,system ,exploit ,shall full information content of phase data  
+4,12,system ,provide ,shall real time playback  
+4,13,Software ,be protected ,will by multiple US and non-US patents 
